@@ -4,7 +4,7 @@ body {
 }
 
 h1, h2 {
-    color: green;
+    color: #16aa09;
     
 }
 
@@ -16,6 +16,11 @@ h2 {
     font-size: 25px;
 }
 
-p {
+.main-text {
     text-align: justify;
 }
+
+.author-text {
+    font-size: 22px;
+}
+
