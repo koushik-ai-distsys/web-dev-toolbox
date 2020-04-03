@@ -2,7 +2,7 @@
 
 [Reference Code](https://github.com/koushik-ai-distsys/web-dev-toolbox/blob/master/html_css/projects/blog_post/style.css)
 
-![Box Model](css_box_model_1.jpg)
+![Box Model](./css_box_model_1.jpg)
 
 Padding, margin and border are properties in CSS. They can be specified for the entire box or for individual sides.
 - Top
@@ -20,7 +20,7 @@ Set the following CSS property:
 box-sizing:border-box
 ```
 
-![Border Box](css_box_model_2.jpg)
+![Border Box](./css_box_model_2.jpg)
 
 ## **Points to note:**
 - In HTML, there are **block elements** and **inline** elements.
